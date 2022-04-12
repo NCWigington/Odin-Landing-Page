@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
 
 .bodybox {
     display: flex;
@@ -34,10 +38,16 @@ a {
     color: #F9FAF8;
     justify-content: left;
     gap: 16px;
+    margin-bottom: 50px;
 }
 
 .push {
     margin-left: auto;
+}
+
+.media {
+    display: flex;
+    align-items: center;
 }
 
 .maintext {
@@ -47,15 +57,15 @@ color: #F9FAF8;
 font-weight: bolder;
 }
 
+.secondtext {
+    color: #E5E7EB;
+    font-size: 18px
+}
+
 img {
     border: 5px;
     height: 150px;
     width: 150px;
-}
-
-.secondtext, a, .footer, {
-color: #E5E7EB;
-font-size: 18px;
 }
 
 /*  #2 information --  - -   */
