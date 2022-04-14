@@ -13,6 +13,7 @@ body {
     height: 500px;
 }
 
+
 button {
     background-color: #3882F6;
     color: white;
@@ -153,4 +154,13 @@ margin: 10px 0;
     width: 750px;
     height: 100px;
     color: white;
+}
+
+.footer {
+    display: flex;
+    width: 1500px;
+    color: #E5E7EB;
+    justify-content: stretch;
+    justify-content: center;
+    padding: 35px;
 }
