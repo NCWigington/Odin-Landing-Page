@@ -128,14 +128,15 @@ margin: 10px 0;
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
-    padding: 0 100px;
+    padding: 0 250px;
 }
 
 .author {
     display: flex;
     font-weight: bolder;
     color: #1F2937;
-    padding: 0 100px;
+    padding: 0 250px;
+    font-size: 30px;
 }
 
 
