@@ -118,14 +118,24 @@ margin: 10px 0;
 .quoteblock {
     display: flex;
     background-color: #E5E7EB;
-    text-align: center;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
+    margin: 100px;
 }
 
 .quotetext {
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
+    padding: 0 100px;
+}
+
+.author {
+    display: flex;
+    font-weight: bolder;
+    color: #1F2937;
+    padding: 0 100px;
 }
 
 
