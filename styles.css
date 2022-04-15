@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.google.com/share?selection.family=Roboto:ital,wght@1,100;1,300;1,900');
+
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -128,8 +129,6 @@ margin: 10px 0;
     color: #1F2937;
 }
 
-
-
 /* #3  quote block info */ 
 .quoteblock {
     display: flex;
@@ -144,7 +143,7 @@ margin: 10px 0;
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
-    font-weight: light;
+    font-weight: lighter;
     padding: 0 300px;
     padding-top: 150px;
 }
@@ -192,6 +191,7 @@ background-color: white;
 
 
 .bluebox button {
+    display: flex;
     border: 3px solid white;
     margin: 0 25px;
 }
