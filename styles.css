@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: black;
     display: flex;
     flex-direction: column;
     flex: 1;
@@ -11,6 +12,7 @@ body {
 .block {
     width: 1400px;
     height: auto;
+/*    border: 3px solid black;*/
 }
 
 
@@ -86,6 +88,7 @@ margin: 10px 0;
 .information {
     display: flex;
     flex-direction: column;
+    background-color: white;
     }
 
 .infotitle {
@@ -130,8 +133,7 @@ margin: 10px 0;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 100px;
-    padding: 100px 0;
+
 }
 
 .quotetext {
@@ -139,6 +141,7 @@ margin: 10px 0;
     color: #1F2937;
     font-style: italic;
     padding: 0 250px;
+    padding-top: 100px;
 }
 
 .author {
@@ -147,6 +150,7 @@ margin: 10px 0;
     color: #1F2937;
     padding: 0 250px;
     font-size: 30px;
+    padding-bottom: 100px;
 }
 
 
@@ -155,7 +159,7 @@ margin: 10px 0;
     display: flex;
     justify-content: center;
     align-items: center;
-
+background-color: white;
 }
 
 .bluebox {
