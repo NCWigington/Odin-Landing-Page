@@ -51,9 +51,8 @@ a {
 
 .headlogo {
     display: flex;
-    width: 100px;
-    height: auto;
-    border: 0px;
+    width: 150px;
+    height: 100px;
 }
 
 .headertitle {
@@ -89,7 +88,7 @@ margin: 10px 0;
     margin: 10px 0;
 }
 
-.hero img {
+.heroimage {
     display: flex;
     border: 5px solid gray;
     width: 520px;
