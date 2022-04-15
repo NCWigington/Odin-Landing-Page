@@ -165,8 +165,8 @@ background-color: white;
 .bluebox {
     display: flex;
     background-color: #3882F6;
-    width: 1000px;
-    height: 100px;
+    width: 900px;
+    height: 60px;
     border-radius: 10px;
     color: white;
     padding: 45px;
