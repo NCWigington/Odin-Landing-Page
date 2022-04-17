@@ -91,7 +91,7 @@ margin: 10px 0;
 
 .heroimage {
     display: flex;
-    border: 5px solid gray;
+    border: 0px solid gray;
     width: 440px;
     height: 330px;
     border-radius: 10px;
