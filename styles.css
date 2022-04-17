@@ -49,11 +49,11 @@ a {
     margin: 20px 180px;
 }
 
-.headlogo {
+.headlogo img{
     display: flex;
-    width: 150px;
-    height: 100px;
-    border-radius: 50px;
+    width: 130px;
+    height: 75px;
+    border-radius: 25px;
 }
 
 .headertitle {
@@ -69,10 +69,9 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 100px;
+    margin: 0 50px;
     gap: 40px;
     padding: 40px 80px;
-    margin: 90px;
     }
 
 .maintext {
@@ -92,8 +91,9 @@ margin: 10px 0;
 .heroimage {
     display: flex;
     border: 5px solid gray;
-    width: 520px;
-    height: 220px;
+    width: 620px;
+    height: 330px;
+    border-radius: 10px;
 }
 
 /*  #2 information --  - -   */
